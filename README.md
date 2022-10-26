@@ -1,0 +1,2 @@
+# BasicMassTransit
+Basic MassTransit app
